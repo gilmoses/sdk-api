@@ -77,7 +77,7 @@ Effects the source allows in the OLE drag-and-drop operation. Most significant i
 
 ## -returns
 
-This function returns S_OK on success. Other possible values include the following.
+This function returns one of the following.
 
 <table>
 <tr>
